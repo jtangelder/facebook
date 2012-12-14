@@ -1,3 +1,4 @@
+// run at /pokes
 setInterval(function() { 
   var pokes = document.querySelectorAll("#contentArea a[ajaxify*='/ajax/pokes/']");
   Array.prototype.forEach.call(pokes, function(p) { 
