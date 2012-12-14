@@ -1,4 +1,4 @@
-facebook
+Facebook
 ========
 
-facebook console scrips
+Automatic your facebooking! Just run in the console :-)
